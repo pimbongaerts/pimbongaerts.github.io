@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/assets/img/cas_logo_small.png");
+	display: inline-block;
+	position: relative;
+	width: 50px;
+	top: 10px;
+}
+
+ul {
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+   list-style-type: none;
+   list-style-position: inside;
+}
