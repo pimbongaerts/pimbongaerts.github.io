@@ -4,4 +4,4 @@
 
 layout: page
 ---
-![intro_image](assets/img/intro_image.jpg)
+<iframe width="750" height="420" src="https://www.youtube.com/embed/Q6Ud5Ce4Jo8?controls=0&autoplay=1&loop=1&showinfo=0&modestbranding=1&mute=1" frameborder="0"></iframe>

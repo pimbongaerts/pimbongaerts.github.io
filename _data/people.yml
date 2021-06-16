@@ -7,13 +7,14 @@
 - name: Dr. Alejandra Hernandez
   title: Postdoctoral Resesearcher Hope for Reefs
   image: /assets/img/people/ale.jpeg
+  id: ale
 
 - name: Dr. Caroline Dubé
   title: Postdoctoral Researcher NSERC
   image: /assets/img/people/caroline.jpeg
 
 - name: Dr. Michelle Achlatis
-  title: Postdoctoral Associate UvA
+  title: Postdoctoral Associate UvA/CARMABI
   image: /assets/img/people/michelle.jpeg
 
 - name: Katharine Prata

@@ -15,7 +15,7 @@ permalink: /publications/
   	<strong>{{ publication.journal | escape }}</strong>
     {{ publication.volume | escape }}:
     {{ publication.pages | escape }}
-    (<a href="{{ publication.pub_url  | escape}}">link</a> / citations:  {{ publication.citations | escape }})
+    (<a href="{{ publication.pub_url  | escape}}">link</a>)
   </li>
 {% endfor %}
 </ul>
