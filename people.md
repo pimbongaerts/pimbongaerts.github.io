@@ -5,7 +5,7 @@ permalink: /people/
 ---
 <h2>Current lab members</h2>
 <ul>
-{% for person in site.data.people[] %}
+{% for person in site.data.people %}
   <li>
     <a href="{{ person.url }}">
       <img src="{{ person.image }}"><br>
