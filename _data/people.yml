@@ -5,7 +5,7 @@
   url: /pim/
 
 - name: Dr. Alejandra Hernandez
-  title: Postdoctoral Resesearcher Hope for Reefs
+  title: Postdoctoral Researcher Hope for Reefs
   image: /assets/img/people/ale.jpeg
   id: ale
 
@@ -17,6 +17,10 @@
   title: Postdoctoral Associate UvA/CARMABI
   image: /assets/img/people/michelle.jpeg
 
+- name: Jennifer Hoey
+  title: Postdoctoral Researcher NSF
+  image: 
+
 - name: Katharine Prata
   title: PhD student
   image: /assets/img/people/kat.jpeg
@@ -24,3 +28,7 @@
 - name: Johanna Gijsbers
   title: Research Technician
   image: /assets/img/people/johanna.png
+
+- name: Dennis van Hulten
+  title: Postdoctoral Researcher NSF
+  image: 
