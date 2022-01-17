@@ -11,18 +11,27 @@ layout: default
 
   <div class="post-content">
     <table><tr>
-      <td width='200'>
-          <img src="{{ person.image }}"><br>
-          <strong>{{ person.name }}</strong>
-          <small>{{ person.title }}</small>
-
-          <a href="https://github.com/{{ page.github }}"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.page.github }}</span></a>
-          <a href="https://twitter.com/{{ page.twitter }}"><span class="icon icon--twitter">
-          {% include icon-twitter.svg %}</span><span class="username">{{ include.page.twitter }}</span></a>
-          <a href="https://scholar.google.com/citations?user={{ page.scholar }}">Scholar</a>
+      <td width='225' align='center' valign='top'>
+          <img src="{{ person.image }}"><br><br>
+          <strong>{{ person.name }}</strong><br>
+          {{ person.title }}<br>
+          <i>{{ person.pronouns }}</i><br><br>
+          <a href="mailto:{{ person.email }}" onmouseover="this.href=this.href.replace('@@','.')">
+            <img src="/assets/img/email.png"></a>
+          </a>
+          <a href="https://twitter.com/{{ person.twitter }}"><img src="/assets/img/twitter.png"></a>
+          <a href="https://scholar.google.com/citations?user={{ person.scholar }}"><img src="/assets/img/scholar.png"></a>
+          <a href="https://github.com/{{ person.github }}"><img src="/assets/img/github.png"></a>
+          <br><br>
+          <a href="{{ person.website }}">{{ person.website | remove: "https://"  | remove: "http://" }}</a>
+          <br><br>
+          <i>Keywords:</i> {{ person.keywords }}<br>
       </td>
-      <td>
-        {{ page.blurb }}
+      <td valign='top'>
+        {{ person.description | markdownify }}
+        <br>
+        <i>Education:</i><br>
+        {{ person.education | markdownify }}
       </td>
     </tr></table> 
       {{ content }}

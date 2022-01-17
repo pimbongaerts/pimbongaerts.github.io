@@ -3,6 +3,32 @@
   image: /assets/img/people/pim.png
   id: pim
   url: /pim/
+  pronouns: he/his
+  # format email like this so it does not get picked up by bots
+  email: pbongaerts@calacademy@@org
+  # twitter username without @ symbol
+  twitter: pimbongaerts
+  # just include the string after `https://scholar.google.com/citations?user=`
+  # and without the `&hl=en` at the end`
+  scholar: OzfKmBEAAAAJ
+  # just the github username
+  github: pimbongaerts
+  # include http or https at beginning of urls
+  website: https://www.reefscapegenomics.com
+  # separate keywords with commas
+  keywords: reefscape genomics
+  # start education field with `|` so that newlines are preserved
+  # use asterisk so it gets served as bullet points (markdown field)
+  education: |
+    * PhD in Biological Sciences, The University of Queensland, 2011
+    * MSc in Limnology and Oceanography, University of Amsterdam, 2006
+    * BSc in Biology, Utrecht University, 2004
+  # start description field with `|` so that newlines are preserved
+  # this is rendered as a markdown field, so can include urls, images, etc.
+  description: |
+    I am the McCosker Chair of Aquatic Biology and a Curator of Invertebrate Zoology at the California Academy of Sciences, and lead the Reefscape Genomics Lab. As a molecular ecologist, I combine genomics and field ecology to understand how corals diversify and adapt to different and changing environmental conditions. I have a particular interest in mesophotic coral ecosystems, and developing novel technologies to enhance the study of coral reef ecosystems. I am also an Associate Editor for the journal "Molecular Ecology", an Associate Professor at San Fransisco State University, and an Associate Scientist at the CARMABI Research Institute. Prior to my appointment at the Academy, I was an ARC DECRA Research Fellow at the Global Change Institute (The University of Queensland), and lead scientist for the Deep Reef component of the "XL Catlin Seaview Survey".
+
+    Outside of work, I enjoy spending time with my family, exploring the local (marine) outdoors, keeping aquaria, playing guitar, listening to 90s hardcore bands, and DIY electronics.
 
 - name: Dr. Jennifer Hoey
   title: Postdoctoral Researcher
@@ -37,8 +63,8 @@
 - name: Dr. Caroline Dubé
   title: Postdoctoral Researcher
   image: /assets/img/people/caroline.jpeg
-  id: caro
-  url: /caro/
+  id: caroline
+  url: /caroline/
 
 - name: Johanna Gijsbers
   title: Research Technician
