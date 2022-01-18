@@ -55,6 +55,14 @@
   image: /assets/img/people/dennis.jpg
   id: dennis
   url: /dennis/
+  pronouns: him/his
+  email: d.van.hulten@student@@rug.nl
+  twitter: dennis_v_hulten
+  scholar: kqzKuRYAAAAJ
+  education: |
+    * BSc in Biology, Leiden University
+  description: |
+    I am a masterstudent for the university of Groningen currently doing a research project with the reefscape genomics group. My main interest lie with population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and i am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time i practice surfing, climbing and most outdoor sports, if im not able to be outside i like to make music using various instruments and software.
 
 - name: Dr. Alejandra Hernandez
   title: Postdoctoral Researcher
@@ -67,6 +75,21 @@
   image: /assets/img/people/kat.jpeg
   id: kat
   url: /kat/
+  pronouns: she/her
+  email: k.prata@uq@@edu.au
+  twitter: kepra3
+  scholar: iDmXuaMAAAAJ
+  github: kepra3
+  keywords: population genomics, molecular ecology, mesophotic coral ecosystems, evolutionary biology, coral reef ecology
+  education: |
+    * PhD in Biological Sciences, The University of Queensland (current)
+    * BSc (Hons.) in Zoology, Monash University, 2016
+  description: | 
+    I am a PhD student under the supervision of Cynthia Riginos at the University of Queensland and Pim Bongaerts in the Reefscape Genomics Lab at California Academy of Sciences. My PhD focuses on a locally dominant and abundant scleractinian genus Agaricia in the Southern Caribbean. Species of Agaricia are distributed across the entire depth range zooxanthellate corals can live at, thus including both shallow and mesophotic coral ecosystems. I use 3D visualiations from photogrammetry and reduced representation sequencing techniques to study spatially explicit population genomic patterns occuring over fine-scales. Notably, I am determining the effect microhabitat has on niche differentiation and bleaching response on both named species and morphologically cryptic taxa in Agaricia.
+    
+    I am also employed at the University of Queensland as a Senior Research Technician where I coordinate SCUBA diving field trips and genomics lab work and I work casually as a Carpentries Programming Instructor at the Queensland Cyber Infrastructure Foundation.
+    
+    I aspire to do a Post Doc and I have been very lucky in my PhD to have gained experience in many research areas including field, lab and computing. In my spare time, I enjoy admiring and fussing over my growing tropcial plant collection, hula hooping and reading or listening to philosophy!
 
 - name: Dr. Michelle Achlatis
   title: Associate Researcher CARMABI/UvA
