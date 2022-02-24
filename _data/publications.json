@@ -1,83 +1,6 @@
 {
     "publications": [
         {
-            "authors": "Bongaerts P, Ridgway T, Sampayo EM, Hoegh-Guldberg O",
-            "year": "2010",
-            "title": "Assessing the \u2018deep reef refugia\u2019hypothesis: focus on Caribbean reefs",
-            "journal": "",
-            "volume": "29",
-            "issue": "",
-            "pages": "309-327",
-            "citations": 453,
-            "pub_url": ""
-        },
-        {
-            "authors": "Sampayo EM, Ridgway T, Bongaerts P, Hoegh-Guldberg O",
-            "year": "2008",
-            "title": "Bleaching susceptibility and mortality of corals are determined by fine-scale differences in symbiont type",
-            "journal": "Proceedings of the National Academy of Sciences",
-            "volume": "105",
-            "issue": "",
-            "pages": "10444-10449",
-            "citations": 399,
-            "pub_url": ""
-        },
-        {
-            "authors": "Ainsworth TD, Krause L, Bridge T, Torda G, Raina J, Zakrzewski M, Gates RD, Padilla-Gami\u00f1o JL, Spalding HL, Smith C, Woolsey ES, Bourne DG, Bongaerts P, Hoegh-Guldberg O, Leggat W",
-            "year": "2015",
-            "title": "The coral core microbiome identifies rare bacterial taxa as ubiquitous endosymbionts",
-            "journal": "The ISME journal",
-            "volume": "9",
-            "issue": "",
-            "pages": "2261-2274",
-            "citations": 341,
-            "pub_url": ""
-        },
-        {
-            "authors": "Oppen van MJH, Bongaerts P, Underwood JN, Peplow LM, Cooper TF",
-            "year": "2011",
-            "title": "The role of deep reefs in shallow reef recovery: an assessment of vertical connectivity in a brooding coral from west and east Australia",
-            "journal": "Molecular Ecology",
-            "volume": "20",
-            "issue": "",
-            "pages": "1647-1660",
-            "citations": 168,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Riginos C, Ridgway T, Sampayo EM, Oppen van MJH, Englebert N, Vermeulen F, Hoegh-Guldberg O",
-            "year": "2010",
-            "title": "Genetic divergence across habitats in the widespread coral Seriatopora hystrix and its associated Symbiodinium",
-            "journal": "PLoS one",
-            "volume": "5",
-            "issue": "",
-            "pages": "e10871",
-            "citations": 168,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bridge TCL, Hughes TP, Guinotte JM, Bongaerts P",
-            "year": "2013",
-            "title": "Call to protect all coral reefs",
-            "journal": "Nature Climate Change",
-            "volume": "3",
-            "issue": "",
-            "pages": "528-530",
-            "citations": 153,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Riginos C, Brunner R, Englebert N, Smith SR, Hoegh-Guldberg O",
-            "year": "2017",
-            "title": "Deep reefs are not universal refuges: reseeding potential varies among coral species",
-            "journal": "Science Advances",
-            "volume": "3",
-            "issue": "",
-            "pages": "e1602373",
-            "citations": 130,
-            "pub_url": ""
-        },
-        {
             "authors": "Rocha LA, Pinheiro HT, Shepherd B, Papastamatiou YP, Luiz OJ, Pyle RL, Bongaerts P",
             "year": "2018",
             "title": "Mesophotic coral ecosystems are threatened and ecologically distinct from shallow water reefs",
@@ -89,72 +12,6 @@
             "pub_url": "https://doi.org/10.1126/science.aaq1614"
         },
         {
-            "authors": "Pantos O, Bongaerts P, Dennis PG, Tyson GW, Hoegh-Guldberg O",
-            "year": "2015",
-            "title": "Habitat-specific environmental conditions primarily control the microbiomes of the coral Seriatopora hystrix",
-            "journal": "The ISME journal",
-            "volume": "9",
-            "issue": "",
-            "pages": "1916-1927",
-            "citations": 104,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bridge TCL, Fabricius KE, Bongaerts P, Wallace CC, Muir PR, Done TJ, Webster JM",
-            "year": "2012",
-            "title": "Diversity of Scleractinia and Octocorallia in the mesophotic zone of the Great Barrier Reef, Australia",
-            "journal": "Coral Reefs",
-            "volume": "31",
-            "issue": "",
-            "pages": "179-189",
-            "citations": 99,
-            "pub_url": ""
-        },
-        {
-            "authors": "Hernandez-Agreda A, Leggat W, Bongaerts P, Ainsworth TD",
-            "year": "2016",
-            "title": "The microbial signature provides insight into the mechanistic basis of coral success across reef habitats",
-            "journal": "MBio",
-            "volume": "7",
-            "issue": "",
-            "pages": "e00560-16",
-            "citations": 91,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Frade PR, Hay KB, Englebert N, Latijnhouwers KRW, Bak RPM, Vermeij MJA, Hoegh-Guldberg O",
-            "year": "2015",
-            "title": "Deep down on a Caribbean reef: lower mesophotic depths harbor a specialized coral-endosymbiont community",
-            "journal": "Scientific reports",
-            "volume": "5",
-            "issue": "",
-            "pages": "1-9",
-            "citations": 89,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Riginos C, Hay KB, Oppen van MJH, Hoegh-Guldberg O, Dove S",
-            "year": "2011",
-            "title": "Adaptive divergence in a scleractinian coral: physiological adaptation of Seriatopora hystrix to shallow and deep reef habitats",
-            "journal": "BMC evolutionary biology",
-            "volume": "11",
-            "issue": "",
-            "pages": "1-15",
-            "citations": 86,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Frade PR, Ogier JJ, Hay KB, Bleijswijk JV, Englebert N, Vermeij MJA, Bak RPM, Visser PM, Hoegh-Guldberg O",
-            "year": "2013",
-            "title": "Sharing the slope: depth partitioning of agariciid corals and associated Symbiodinium across shallow and mesophotic habitats (2-60 m) on a Caribbean reef",
-            "journal": "BMC Evolutionary Biology",
-            "volume": "13",
-            "issue": "",
-            "pages": "1-15",
-            "citations": 85,
-            "pub_url": ""
-        },
-        {
             "authors": "Liu H, Stephens TG, Gonz\u00e1lez-Pech RA, Beltran VH, Lapeyre B, Bongaerts P, Cooke I, Aranda M, Bourne DG, For\u00eat S, Miller DJ, Oppen van MJH, Voolstra CR, Ragan MA, Chan CX",
             "year": "2018",
             "title": "Symbiodinium genomes reveal adaptive evolution of functions related to coral-dinoflagellate symbiosis",
@@ -164,61 +21,6 @@
             "pages": "1-11",
             "citations": 83,
             "pub_url": "https://doi.org/10.1038/s42003-018-0098-3"
-        },
-        {
-            "authors": "Frade PR, Bongaerts P, Winkelhagen AJS, Tonk L, Bak RPM",
-            "year": "2008",
-            "title": "In situ photobiology of corals over large depth ranges: a multivariate analysis on the roles of environment, host, and algal symbiont",
-            "journal": "Limnology and Oceanography",
-            "volume": "53",
-            "issue": "",
-            "pages": "2711-2723",
-            "citations": 81,
-            "pub_url": ""
-        },
-        {
-            "authors": "Riginos C, Crandall ED, Liggins L, Bongaerts P, Treml EA",
-            "year": "2016",
-            "title": "Navigating the currents of seascape genomics: how spatial analyses can augment population genomic studies",
-            "journal": "Current zoology",
-            "volume": "62",
-            "issue": "",
-            "pages": "581-601",
-            "citations": 74,
-            "pub_url": ""
-        },
-        {
-            "authors": "Gonz\u00e1lez\u2010Rivero M, Bongaerts P, Beijbom O, Pizarro O, Friedman A, Rodriguez\u2010Ramirez A, Upcroft B, Laffoley D, Kline D, Bailhache C, Vevers R, Hoegh\u2010Guldberg O",
-            "year": "2014",
-            "title": "The Catlin Seaview Survey\u2013kilometre\u2010scale seascape assessment, and monitoring of coral reef ecosystems",
-            "journal": "Aquatic Conservation: Marine and Freshwater Ecosystems",
-            "volume": "24",
-            "issue": "",
-            "pages": "184-198",
-            "citations": 67,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Carmichael M, Hay KB, Tonk L, Frade PR, Hoegh-Guldberg O",
-            "year": "2015",
-            "title": "Prevalent endosymbiont zonation shapes the depth distributions of scleractinian coral species",
-            "journal": "Royal Society open science",
-            "volume": "2",
-            "issue": "",
-            "pages": "140297",
-            "citations": 65,
-            "pub_url": ""
-        },
-        {
-            "authors": "Tonk L, Bongaerts P, Sampayo EM, Hoegh-Guldberg O",
-            "year": "2013",
-            "title": "SymbioGBR: a web-based database of Symbiodinium associated with cnidarian hosts on the Great Barrier Reef",
-            "journal": "BMC ecology",
-            "volume": "13",
-            "issue": "",
-            "pages": "1-9",
-            "citations": 64,
-            "pub_url": ""
         },
         {
             "authors": "Frade PR, Bongaerts P, Englebert N, Rogers A, Gonzalez-Rivero M, Hoegh-Guldberg O",
@@ -235,34 +37,12 @@
             "authors": "Bongaerts P, Smith TB",
             "year": "2019",
             "title": "Beyond the \u201cDeep Reef Refuge\u201d hypothesis: a conceptual framework to characterize persistence at depth",
-            "journal": "",
+            "journal": "Mesophotic Coral Ecosystems",
             "volume": "",
             "issue": "",
             "pages": "881-895",
             "citations": 50,
             "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_45"
-        },
-        {
-            "authors": "Muir P, Wallace C, Bridge TCL, Bongaerts P",
-            "year": "2015",
-            "title": "Diverse staghorn coral fauna on the mesophotic reefs of north-east Australia",
-            "journal": "PLoS One",
-            "volume": "10",
-            "issue": "",
-            "pages": "e0117933",
-            "citations": 47,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Sampayo EM, Bridge TCL, Ridgway T, Vermeulen F, Englebert N, Webster JM, Hoegh-Guldberg O",
-            "year": "2011",
-            "title": "Symbiodinium diversity in mesophotic coral communities on the Great Barrier Reef: a first assessment",
-            "journal": "Marine Ecology Progress Series",
-            "volume": "439",
-            "issue": "",
-            "pages": "117-126",
-            "citations": 46,
-            "pub_url": ""
         },
         {
             "authors": "Hernandez-Agreda A, Leggat W, Bongaerts P, Herrera C, Ainsworth TD",
@@ -276,39 +56,6 @@
             "pub_url": "https://doi.org/10.1128/mBio.00812-18"
         },
         {
-            "authors": "Bongaerts P, Hoeksema BW, Hay KB, Hoegh-Guldberg O",
-            "year": "2012",
-            "title": "Mushroom corals overcome live burial through pulsed inflation",
-            "journal": "Coral Reefs",
-            "volume": "31",
-            "issue": "",
-            "pages": "399-399",
-            "citations": 42,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Bridge TCL, Kline DI, Muir PR, Wallace CC, Beaman RJ, Hoegh-Guldberg O",
-            "year": "2011",
-            "title": "Mesophotic coral ecosystems on the walls of Coral Sea atolls",
-            "journal": "Coral Reefs",
-            "volume": "30",
-            "issue": "",
-            "pages": "335-335",
-            "citations": 41,
-            "pub_url": ""
-        },
-        {
-            "authors": "Bongaerts P, Muir P, Englebert N, Bridge TCL, Hoegh-Guldberg O",
-            "year": "2013",
-            "title": "Cyclone damage at mesophotic depths on Myrmidon Reef (GBR)",
-            "journal": "Coral Reefs",
-            "volume": "32",
-            "issue": "",
-            "pages": "935-935",
-            "citations": 38,
-            "pub_url": ""
-        },
-        {
             "authors": "Oppen van MJH, Bongaerts P, Frade P, Peplow LM, Boyd SE, Nim HT, Bay LK",
             "year": "2018",
             "title": "Adaptation to reef habitats through selection on the coral animal and its associated microbiome",
@@ -318,17 +65,6 @@
             "pages": "2956-2971",
             "citations": 32,
             "pub_url": "https://doi.org/10.1111/mec.14763"
-        },
-        {
-            "authors": "Englebert N, Bongaerts P, Muir PR, Hay KB, Pichon M, Hoegh-Guldberg O",
-            "year": "2017",
-            "title": "Lower mesophotic coral communities (60-125 m depth) of the northern Great Barrier Reef and Coral Sea",
-            "journal": "PLoS One",
-            "volume": "12",
-            "issue": "",
-            "pages": "e0170336",
-            "citations": 32,
-            "pub_url": ""
         },
         {
             "authors": "Laverick JH, Piango S, Andradi-Brown DA, Exton DA, Bongaerts P, Bridge TCL, Lesser MP, Pyle RL, Slattery M, Wagner D, Rogers AD",
@@ -342,70 +78,15 @@
             "pub_url": "https://doi.org/10.1186/s13750-018-0127-1"
         },
         {
-            "authors": "Englebert N, Bongaerts P, Muir P, Hay KB, Hoegh-Guldberg O",
-            "year": "2014",
-            "title": "Deepest zooxanthellate corals of the Great Barrier Reef and Coral Sea",
-            "journal": "Marine Biodiversity",
-            "volume": "",
-            "issue": "",
-            "pages": "",
-            "citations": 28,
-            "pub_url": ""
-        },
-        {
-            "authors": "Glasl B, Bongaerts P, Elisabeth NH, Hoegh-Guldberg O, Herndl GJ, Frade PR",
-            "year": "2017",
-            "title": "Microbiome variation in corals with distinct depth distribution ranges across a shallow\u2013mesophotic gradient (15\u201385 m)",
-            "journal": "Coral Reefs",
-            "volume": "36",
-            "issue": "",
-            "pages": "447-452",
-            "citations": 27,
-            "pub_url": ""
-        },
-        {
-            "authors": "Hoeksema BW, Bongaerts P, Baldwin CC",
-            "year": "2017",
-            "title": "High coral cover at lower mesophotic depths: a dense Agaricia community at the leeward side of Cura\u00e7ao, Dutch Caribbean",
-            "journal": "Marine Biodiversity",
-            "volume": "47",
-            "issue": "",
-            "pages": "67-70",
-            "citations": 26,
-            "pub_url": ""
-        },
-        {
-            "authors": "Hoeksema BW, Bongaerts P",
-            "year": "2016",
-            "title": "Mobility and self-righting by a free-living mushroom coral through pulsed inflation",
-            "journal": "Marine Biodiversity",
-            "volume": "46",
-            "issue": "",
-            "pages": "521-524",
-            "citations": 21,
-            "pub_url": ""
-        },
-        {
             "authors": "Turner JA, Andradi-Brown DA, Gori A, Bongaerts P, Burdett HL, Ferrier-Pag\u00e8s C, Voolstra CR, Weinstein DK, Bridge TCL, Costantini F, Gress E, Laverick J, Loya Y, Goodbody-Gringley G, Rossi S, Taylor ML, Viladrich N, Voss JD, Williams J, Woodall LC, Eyal G",
             "year": "2019",
             "title": "Key questions for research and conservation of mesophotic coral ecosystems and temperate mesophotic ecosystems",
-            "journal": "",
+            "journal": "Mesophotic Coral Ecosystems",
             "volume": "",
             "issue": "",
             "pages": "989-1003",
             "citations": 20,
             "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_52"
-        },
-        {
-            "authors": "Laverick JH, Andradi-Brown DA, Exton DA, Bongaerts P, Bridge TCL, Lesser MP, Pyle RL, Slattery M, Wagner D, Rogers AD",
-            "year": "2016",
-            "title": "To what extent do mesophotic coral ecosystems and shallow reefs share species of conservation interest?",
-            "journal": "",
-            "volume": "5",
-            "issue": "",
-            "pages": "1-8",
-            "citations": 17,
-            "pub_url": ""
         },
         {
             "authors": "Muir PR, Wallace CC, Pichon M, Bongaerts P",
@@ -430,43 +111,10 @@
             "pub_url": "https://doi.org/10.3389/fmars.2018.00029"
         },
         {
-            "authors": "Sinniger F, Prasetia R, Yorifuji M, Bongaerts P, Harii S",
-            "year": "2017",
-            "title": "Seriatopora diversity preserved in upper mesophotic coral ecosystems in Southern Japan",
-            "journal": "Frontiers in Marine Science",
-            "volume": "4",
-            "issue": "",
-            "pages": "155",
-            "citations": 14,
-            "pub_url": ""
-        },
-        {
-            "authors": "Ganase A, Bongaerts P, Visser PM, Dove SG",
-            "year": "2016",
-            "title": "The effect of seasonal temperature extremes on sediment rejection in three scleractinian coral species",
-            "journal": "Coral reefs",
-            "volume": "35",
-            "issue": "",
-            "pages": "187-191",
-            "citations": 7,
-            "pub_url": ""
-        },
-        {
-            "authors": "Foster R, Bridge TCL, Bongaerts P",
-            "year": "2012",
-            "title": "The first record of Hippocampus denise (Syngnathidae) from Australia",
-            "journal": "Aqua, Int J Ichthyol",
-            "volume": "18",
-            "issue": "",
-            "pages": "55-57",
-            "citations": 7,
-            "pub_url": ""
-        },
-        {
             "authors": "Rodriguez-Ramirez A, Gonz\u00e1lez-Rivero M, Beijbom O, Bailhache C, Bongaerts P, Brown KT, Bryant DEP, Dalton P, Dove S, Ganase A, Kennedy EV, Kim CJS, Lopez-Marcano S, Neal BP, Radice VZ, Vercelloni J, Beyer HL, Hoegh-Guldberg O",
             "year": "2020",
             "title": "A contemporary baseline record of the world\u2019s coral reefs",
-            "journal": "Scientific data",
+            "journal": "Scientific Data",
             "volume": "7",
             "issue": "",
             "pages": "1-15",
@@ -477,7 +125,7 @@
             "authors": "Cooke I, Ying H, For\u00eat S, Bongaerts P, Strugnell JM, Simakov O, Zhang J, Field MA, Rodriguez-Lanetty M, Bell SC, Bourne DG, Oppen van MJH, Ragan MA, Miller DJ",
             "year": "2020",
             "title": "Genomic signatures in the coral holobiont reveal host adaptations driven by Holocene climate change and reef specific symbionts",
-            "journal": "Science advances",
+            "journal": "Science Advances",
             "volume": "6",
             "issue": "48",
             "pages": "eabc6318",
@@ -487,7 +135,7 @@
         {
             "authors": "Li MS, Zande RVD, Hern\u00e1ndez-Agreda A, Bongaerts P, Stuart HS",
             "year": "2019",
-            "title": "Gripper design with rotation-constrained teeth for mobile manipulation of hard, plating corals with human-portable rovs",
+            "title": "Gripper design with rotation-constrained teeth for mobile manipulation of hard, plating corals with human-portable ROVs",
             "journal": "",
             "volume": "",
             "issue": "",
@@ -499,7 +147,7 @@
             "authors": "Marden E, Abbott RJ, Austerlitz F, Ortiz\u2010Barrientos D, Baucom RS, Bongaerts P, Bonin A, Bonneaud C, Browne L, Buerkle CA, Caicedo AL, Coltman DW, Cruzan MB, Davison A, DeWoody JA, Dumbrell AJ, Emerson BC, Fountain\u2010Jones NM, Gillespie R, Giraud T, Hansen MM, Hodgins KA, Heuertz M, Hirase S, Hooper R, Hohenlohe P, Kane NC, Kelley JL, Kinziger AP, McKenzie VJ, Moreau CS, Nazareno AG, Pelletier TA, Pemberton JM, Qu Y, Renaut S, Riginos C, Rodr\u00edguez\u2010Ezpeleta N, Rogers SM, Russell JA, Schoville SD, Shi S, Smith M, Sork VL, Stone GN, Taberlet P, Videvall E, Waits L, Warschefsky E, Wayne RK, Whibley A, Willoughby J, Yoder JB, Zinger L, Sibbett B, Narum S, Rieseberg LH",
             "year": "2021",
             "title": "Sharing and reporting benefits from biodiversity research",
-            "journal": "",
+            "journal": "Molecular Ecology",
             "volume": "30",
             "issue": "",
             "pages": "1103-1107",
@@ -565,7 +213,7 @@
             "authors": "Rouz\u00e9 H, Galand PE, Medina M, Bongaerts P, Pichon M, P\u00e9rez-Rosales G, Torda G, Moya A, Raina J, H\u00e9douin L",
             "year": "2021",
             "title": "Symbiotic associations of the deepest recorded photosynthetic scleractinian coral (172 m depth)",
-            "journal": "The ISME journal",
+            "journal": "The ISME Journal",
             "volume": "15",
             "issue": "",
             "pages": "1564-1568",
@@ -576,10 +224,10 @@
             "authors": "Bongaerts P, Dube\u0301 CE, Prata K, Gijsbers J, Achlatis M, Hernandez-Agreda A",
             "year": "2021",
             "title": "Reefscape genomics: leveraging advances in 3D imaging to assess fine-scale patterns of genomic variation on coral reefs",
-            "journal": "",
-            "volume": "",
+            "journal": "Frontiers in Marine Science",
+            "volume": "8",
             "issue": "",
-            "pages": "",
+            "pages": "1-9",
             "citations": 0,
             "pub_url": "https://doi.org/10.3389/fmars.2021.638979"
         },
@@ -590,7 +238,7 @@
             "journal": "Frontiers in Marine Science",
             "volume": "8",
             "issue": "",
-            "pages": "83",
+            "pages": "1-5",
             "citations": 0,
             "pub_url": "https://doi.org/10.3389/fmars.2021.622856"
         },
@@ -664,7 +312,7 @@
             "authors": "Leggat W, Gierz S, Hernandez-Agreda A, Ainsworth TD",
             "year": "2019",
             "title": "The mesophotic coral microbial biosphere",
-            "journal": "Mesophotic coral ecosystems",
+            "journal": "Mesophotic Coral Ecosystems",
             "volume": "",
             "issue": "",
             "pages": "493-505",
