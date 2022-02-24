@@ -37,7 +37,7 @@
             "authors": "Oppen van MJH, Bongaerts P, Underwood JN, Peplow LM, Cooper TF",
             "year": "2011",
             "title": "The role of deep reefs in shallow reef recovery: an assessment of vertical connectivity in a brooding coral from west and east Australia",
-            "journal": "Molecular ecology",
+            "journal": "Molecular Ecology",
             "volume": "20",
             "issue": "",
             "pages": "1647-1660",
@@ -86,7 +86,7 @@
             "issue": "",
             "pages": "281-284",
             "citations": 127,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1126/science.aaq1614"
         },
         {
             "authors": "Pantos O, Bongaerts P, Dennis PG, Tyson GW, Hoegh-Guldberg O",
@@ -158,12 +158,12 @@
             "authors": "Liu H, Stephens TG, Gonz\u00e1lez-Pech RA, Beltran VH, Lapeyre B, Bongaerts P, Cooke I, Aranda M, Bourne DG, For\u00eat S, Miller DJ, Oppen van MJH, Voolstra CR, Ragan MA, Chan CX",
             "year": "2018",
             "title": "Symbiodinium genomes reveal adaptive evolution of functions related to coral-dinoflagellate symbiosis",
-            "journal": "Communications biology",
+            "journal": "Communications Biology",
             "volume": "1",
             "issue": "",
             "pages": "1-11",
             "citations": 83,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1038/s42003-018-0098-3"
         },
         {
             "authors": "Frade PR, Bongaerts P, Winkelhagen AJS, Tonk L, Bak RPM",
@@ -229,7 +229,7 @@
             "issue": "",
             "pages": "1-8",
             "citations": 51,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1038/s41467-018-05741-0"
         },
         {
             "authors": "Bongaerts P, Smith TB",
@@ -273,7 +273,7 @@
             "issue": "",
             "pages": "e00812-18",
             "citations": 44,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1128/mBio.00812-18"
         },
         {
             "authors": "Bongaerts P, Hoeksema BW, Hay KB, Hoegh-Guldberg O",
@@ -312,12 +312,12 @@
             "authors": "Oppen van MJH, Bongaerts P, Frade P, Peplow LM, Boyd SE, Nim HT, Bay LK",
             "year": "2018",
             "title": "Adaptation to reef habitats through selection on the coral animal and its associated microbiome",
-            "journal": "Molecular ecology",
+            "journal": "Molecular Ecology",
             "volume": "27",
-            "issue": "",
+            "issue": "14",
             "pages": "2956-2971",
             "citations": 32,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1111/mec.14763"
         },
         {
             "authors": "Englebert N, Bongaerts P, Muir PR, Hay KB, Pichon M, Hoegh-Guldberg O",
@@ -334,12 +334,12 @@
             "authors": "Laverick JH, Piango S, Andradi-Brown DA, Exton DA, Bongaerts P, Bridge TCL, Lesser MP, Pyle RL, Slattery M, Wagner D, Rogers AD",
             "year": "2018",
             "title": "To what extent do mesophotic coral ecosystems and shallow reefs share species of conservation interest? A systematic review",
-            "journal": "",
+            "journal": "Environmental Evidence",
             "volume": "7",
             "issue": "",
             "pages": "1-13",
             "citations": 30,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1186/s13750-018-0127-1"
         },
         {
             "authors": "Englebert N, Bongaerts P, Muir P, Hay KB, Hoegh-Guldberg O",
@@ -416,7 +416,7 @@
             "issue": "",
             "pages": "20181987",
             "citations": 16,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1098/rspb.2018.1987"
         },
         {
             "authors": "Gonzalez-Zapata FL, Bongaerts P, Ram\u00edrez-Portilla C, Adu-Oppong B, Walljasper G, Reyes A, Sanchez JA",
@@ -427,7 +427,7 @@
             "issue": "",
             "pages": "29",
             "citations": 16,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.3389/fmars.2018.00029"
         },
         {
             "authors": "Sinniger F, Prasetia R, Yorifuji M, Bongaerts P, Harii S",
@@ -532,12 +532,12 @@
             "authors": "Benzoni F, Arrigoni R, Berumen ML, Taviani M, Bongaerts P, Frade PR",
             "year": "2018",
             "title": "Morphological and genetic divergence between Mediterranean and Caribbean populations of Madracis pharensis (Heller 1868)(Scleractinia, Pocilloporidae): too much for one species?",
-            "journal": "",
-            "volume": "",
-            "issue": "",
-            "pages": "",
+            "journal": "Zootaxa",
+            "volume": "4471",
+            "issue": "3",
+            "pages": "473-492",
             "citations": 3,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.11646/zootaxa.4471.3.3"
         },
         {
             "authors": "Bridge TCL, Webster JM, Sih TL, Bongaerts P",
