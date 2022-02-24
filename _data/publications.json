@@ -240,7 +240,7 @@
             "issue": "",
             "pages": "881-895",
             "citations": 50,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_45"
         },
         {
             "authors": "Muir P, Wallace C, Bridge TCL, Bongaerts P",
@@ -394,7 +394,7 @@
             "issue": "",
             "pages": "989-1003",
             "citations": 20,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_52"
         },
         {
             "authors": "Laverick JH, Andradi-Brown DA, Exton DA, Bongaerts P, Bridge TCL, Lesser MP, Pyle RL, Slattery M, Wagner D, Rogers AD",
@@ -441,17 +441,6 @@
             "pub_url": ""
         },
         {
-            "authors": "Bridge TCL, Beaman RJ, Bongaerts P, Muir PR, Ekins M, Sih T",
-            "year": "2019",
-            "title": "The great barrier reef and coral sea",
-            "journal": "",
-            "volume": "",
-            "issue": "",
-            "pages": "351-367",
-            "citations": 10,
-            "pub_url": ""
-        },
-        {
             "authors": "Ganase A, Bongaerts P, Visser PM, Dove SG",
             "year": "2016",
             "title": "The effect of seasonal temperature extremes on sediment rejection in three scleractinian coral species",
@@ -482,7 +471,7 @@
             "issue": "",
             "pages": "1-15",
             "citations": 6,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1038/s41597-020-00698-6"
         },
         {
             "authors": "Cooke I, Ying H, For\u00eat S, Bongaerts P, Strugnell JM, Simakov O, Zhang J, Field MA, Rodriguez-Lanetty M, Bell SC, Bourne DG, Oppen van MJH, Ragan MA, Miller DJ",
@@ -490,10 +479,10 @@
             "title": "Genomic signatures in the coral holobiont reveal host adaptations driven by Holocene climate change and reef specific symbionts",
             "journal": "Science advances",
             "volume": "6",
-            "issue": "",
+            "issue": "48",
             "pages": "eabc6318",
             "citations": 5,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1126/sciadv.abc6318"
         },
         {
             "authors": "Li MS, Zande RVD, Hern\u00e1ndez-Agreda A, Bongaerts P, Stuart HS",
@@ -504,7 +493,7 @@
             "issue": "",
             "pages": "1-6",
             "citations": 5,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1109/OCEANSE.2019.8867340"
         },
         {
             "authors": "Marden E, Abbott RJ, Austerlitz F, Ortiz\u2010Barrientos D, Baucom RS, Bongaerts P, Bonin A, Bonneaud C, Browne L, Buerkle CA, Caicedo AL, Coltman DW, Cruzan MB, Davison A, DeWoody JA, Dumbrell AJ, Emerson BC, Fountain\u2010Jones NM, Gillespie R, Giraud T, Hansen MM, Hodgins KA, Heuertz M, Hirase S, Hooper R, Hohenlohe P, Kane NC, Kelley JL, Kinziger AP, McKenzie VJ, Moreau CS, Nazareno AG, Pelletier TA, Pemberton JM, Qu Y, Renaut S, Riginos C, Rodr\u00edguez\u2010Ezpeleta N, Rogers SM, Russell JA, Schoville SD, Shi S, Smith M, Sork VL, Stone GN, Taberlet P, Videvall E, Waits L, Warschefsky E, Wayne RK, Whibley A, Willoughby J, Yoder JB, Zinger L, Sibbett B, Narum S, Rieseberg LH",
@@ -515,18 +504,18 @@
             "issue": "",
             "pages": "1103-1107",
             "citations": 4,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1111/mec.15702"
         },
         {
             "authors": "Bongaerts P, Perez-Rosales G, Radice VZ, Eyal G, Gori A, Gress E, Hammerman NM, Hernandez-Agreda A, Laverick J, Muir P, Pinheiro H, Pyle RL, Rocha L, Turner JA, Booker R",
             "year": "2019",
-            "title": "Mesophotic. org: a repository for scientific information on mesophotic ecosystems",
+            "title": "Mesophotic.org: a repository for scientific information on mesophotic ecosystems",
             "journal": "Database",
             "volume": "2019",
             "issue": "",
             "pages": "",
             "citations": 4,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1093/database/baz140"
         },
         {
             "authors": "Bongaerts P, Cooke IR, Ying H, Wels D, Haan SD, Hernandez-Agreda A, Brunner CA, Dove S, Englebert N, Eyal G, Foret S, Grinblat M, Hay KB, Harii S, Hayward DC, Lin Y, Mihaljevi\u0107 M, Moya A, Muir P, Sinniger F, Smallhorn-West P, Torda G, Ragan MA, Oppen van MJH, Hoegh-Guldberg O",
@@ -537,7 +526,7 @@
             "issue": "",
             "pages": "2286-2298. e8",
             "citations": 3,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1016/j.cub.2021.03.028"
         },
         {
             "authors": "Benzoni F, Arrigoni R, Berumen ML, Taviani M, Bongaerts P, Frade PR",
@@ -592,7 +581,7 @@
             "issue": "",
             "pages": "",
             "citations": 0,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.3389/fmars.2021.638979"
         },
         {
             "authors": "Eyal G, Laverick JH, Bongaerts P, Levy O, Pandolfi JM",
@@ -603,18 +592,84 @@
             "issue": "",
             "pages": "83",
             "citations": 0,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.3389/fmars.2021.622856"
         },
         {
             "authors": "Bridge TCL, Beaman RJ, Bongaerts P, Muir PR, Ekins M, Sih T",
             "year": "2019",
             "title": "The Great Barrier Reef and Coral Sea (vol 20, 2019)",
-            "journal": "MESOPHOTIC CORAL ECOSYSTEMS",
+            "journal": "Mesophotic Coral Ecosystems",
             "volume": "",
             "issue": "",
-            "pages": "C1-C1",
+            "pages": "351-367",
             "citations": 0,
-            "pub_url": ""
+            "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_20"
+        },
+        {
+            "authors": "Feldman B, Afiq-Rosli L, Simon-Blecher N, Bollati E, Wainwright B, Bongaerts P, Huang D, Levy O",
+            "year": "2021",
+            "title": "Distinct lineages and population genomic structure of the coral Pachyseris speciosa in the small equatorial reef system of Singapore",
+            "journal": "Coral Reefs",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1007/s00338-021-02160-4"
+        },
+        {
+            "authors": "Pérez-Rosales G, Rouzé H, Torda G, Bongaerts P, Pichon M, Under The Pole Consortium, Parravicini V, Hédouin L",
+            "year": "2021",
+            "title": "Mesophotic coral communities escape thermal coral bleaching in French Polynesia",
+            "journal": "Royal Society Open Science",
+            "volume": "8",
+            "issue": "11",
+            "pages": "210139",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1098/rsos.210139"
+        },
+        {
+            "authors": "Hernandez-Agreda A, Sahit FM, Englebert N, Hoegh-Guldberg O, Bongaerts P",
+            "year": "2022",
+            "title": "Hidden in the deep: Distinct benthic trajectories call for monitoring of mesophotic reefs",
+            "journal": "Conservation Letters",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1111/conl.12875"
+        },
+        {
+            "authors": "Prata K, Riginos C, Gutenkunst R, Latijnhouwers K, Sánchez J, Englebert N, Hay K, Bongaerts P",
+            "year": "2022",
+            "title": "Deep connections: divergence histories with gene flow in mesophotic Agaricia corals",
+            "journal": "Molecular Ecology",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1111/mec.16391"
+        },
+        {
+            "authors": "Kline DI, Dehgan A, Bunje P, Selbe S, Chirayath V, Pizarro O, Leray M, Connolly S, Bongaerts P, Treibitz T, Levy O",
+            "year": "2021",
+            "title": "The Coral Reef Sentinels Program: A Mars Shot for Blue Planetary Health",
+            "journal": "Marine Technology Society Journal",
+            "volume": "55",
+            "issue": "3",
+            "pages": "118-119",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.4031/MTSJ.55.3.51"
+        },
+        {
+            "authors": "Leggat W, Gierz S, Hernandez-Agreda A, Ainsworth TD",
+            "year": "2019",
+            "title": "The mesophotic coral microbial biosphere",
+            "journal": "Mesophotic coral ecosystems",
+            "volume": "",
+            "issue": "",
+            "pages": "493-505",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_28"
         }
     ]
 }
