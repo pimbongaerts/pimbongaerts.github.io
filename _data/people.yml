@@ -64,6 +64,19 @@
   description: |
     I am a Masters student at the University of Groningen currently doing a research project with the Reefscape Genomics group. My main interests lie in population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and I am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time I practice surfing, climbing and most outdoor sports. If I'm not able to be outside I like to make music using various instruments and software.
 
+- name: Flore Wijnands
+  title: MSc student UvA
+  image: /assets/img/people/flore.jpg
+  id: flore
+  url: /flore/
+  pronouns: she/her
+  email: flore.wijnands@student.uva.nl
+  education: |
+    * BSc in Earth Sciences, Utrecht University
+  description: |
+    I am a master student Freshwater and Marine Biology from the University of Amsterdam and I will be joining the Reefscape Genomics Lab the coming months for my final research internship. I will be using 3D imagery of Caribbean reefs and phylogenomic approaches to study the effect of microenvironment and genetic diversity on the susceptibly to bleaching in Caribbean stony corals. I am really looking forward to diving deeper into the field of genomics and to learn more about coral ecology and evolution. 
+    My background lies mostly in Earth Sciences.  During courses on paleobiology, I realized that I was more interested in the living world than in sediments and geomorphology, therefore I changed my focus from physical geography to marine biology. Within the field of marine biology I am mostly interested in biogeography, population genomics, and biodiversity and conservation. In my spare time I like to be outside and take long walks. When I am indoors, I often read, play board games with friends, or make music. I play the clarinet in a student orchestra in Utrecht.
+
 - name: Dr. Alejandra Hernandez
   title: Postdoctoral Researcher
   image: /assets/img/people/ale.jpeg
