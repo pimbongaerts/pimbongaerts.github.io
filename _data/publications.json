@@ -280,9 +280,9 @@
             "year": "2022",
             "title": "Hidden in the deep: Distinct benthic trajectories call for monitoring of mesophotic reefs",
             "journal": "Conservation Letters",
-            "volume": "",
+            "volume": "15",
             "issue": "",
-            "pages": "",
+            "pages": "e12875",
             "citations": 0,
             "pub_url": "https://doi.org/10.1111/conl.12875"
         },
@@ -291,9 +291,9 @@
             "year": "2022",
             "title": "Deep connections: divergence histories with gene flow in mesophotic Agaricia corals",
             "journal": "Molecular Ecology",
-            "volume": "",
+            "volume": "31",
             "issue": "",
-            "pages": "",
+            "pages": "2511-2527",
             "citations": 0,
             "pub_url": "https://doi.org/10.1111/mec.16391"
         },
@@ -318,6 +318,28 @@
             "pages": "493-505",
             "citations": 0,
             "pub_url": "https://doi.org/10.1007/978-3-319-92735-0_28"
+        },
+        {
+            "authors": "Bongaerts, P",
+            "year": "2022",
+            "title": "Mesophotic coral ecosystems",
+            "journal": "Current Biology",
+            "volume": "32",
+            "issue": "8",
+            "pages": "R345-R346",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1016/j.cub.2022.03.036"
+        },
+        {
+            "authors": "Pérez-Rosales, G., Pichon, M., Rouzé, H., Villéger, S., Torda, G., Bongaerts, P., Carlot, J., Parravicini, V., & Hédouin, L.; Under The Pole Consortium",
+            "year": "2022",
+            "title": "Mesophotic coral ecosystems of French Polynesia are hotspots of alpha and beta generic diversity for scleractinian assemblages",
+            "journal": "Diversity and Distributions",
+            "volume": "28",
+            "issue": "",
+            "pages": "1391– 1403",
+            "citations": 0,
+            "pub_url": "https://doi.org/10.1111/ddi.13549"
         }
     ]
 }
