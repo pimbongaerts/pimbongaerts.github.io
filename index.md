@@ -12,8 +12,8 @@ Our research aims to understand the ecological and evolutionary processes that d
 
 We are a hybrid lab physically based at the California Academy of Sciences in San Francisco, but with lab members working from different locations across the globe. Our current work is supported through the “Hope for Reefs” initiative at the California Academy of Sciences, the National Science Foundation (NSF), the Natural Sciences and Engineering Research Council (NSERC), and Nvidia, among others.
 
+<img src="/assets/img/directors_60m.gif" />
+
 In this lab, we believe that science is real, Black lives matter, feminism is for everyone, and diversity of all kinds is critical and enriching.
 
 As a lab, we acknowledge that the California Academy of Sciences sits on the stolen, unceded land of the Ramaytush Ohlone. We acknowledge the historic exclusion and erasure of Indigenous peoples from the lands and seas from which we work, and this acknowledgment serves as the beginning of an ongoing commitment to reflect on our own complicity and to dismantle the lasting legacies of settler colonialism. Our department's anti-racist action plan can be found [here](https://www.calacademy.org/ibsss-anti-racism-action-plan).
-
-<iframe width="750" height="420" src="https://www.youtube.com/embed/Q6Ud5Ce4Jo8?controls=0&autoplay=1&loop=1&showinfo=0&modestbranding=1&mute=1" frameborder="0"></iframe><br />
