@@ -16,6 +16,19 @@ permalink: /people/
 {% endfor %}
 </ul>
 
+<h2>Associate Researchers</h2>
+<ul class="people">
+{% for person in site.data.associate %}
+  <li>
+    <a href="{{ person.url }}">
+      <img src="{{ person.image }}"><br>
+      {{ person.name }}<br>
+      {{ person.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 <h2>Lab alumni</h2>
 <ul class="people">
 {% for person in site.data.alumni %}

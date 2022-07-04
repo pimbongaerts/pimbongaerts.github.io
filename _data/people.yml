@@ -118,22 +118,6 @@
     
     I aspire to do a Post Doc and I have been very lucky in my PhD to have gained experience in many research areas including field, lab and computing. In my spare time, I enjoy admiring and fussing over my growing tropcial plant collection, hula hooping and reading or listening to philosophy!
 
-- name: Dr. Michelle Achlatis
-  title: Associate Researcher CARMABI/UvA
-  image: /assets/img/people/michelle.jpeg
-  id: michelle
-  url: /michelle/
-  pronouns: she/her
-  email: machlatis@calacademy@@org
-  scholar: T5I5-IwAAAAJ
-  keywords: sponge physiology, photosymbiosis, bioerosion
-  education: |
-    * PhD in Biological Sciences, The University of Queensland, 2018
-    * MSc in Limnology and Oceanography, University of Amsterdam, 2013
-    * BSc in Biology, University of Crete, 2011
-  description: | 
-    I am a Postdoctoral Researcher working on coral reef ecology based at the University of Amsterdam (Netherlands), and associated with the CARMABI Research Institute and the California Academy of Sciences. I am involved in the CoralScape project with the Reefscape Genomics Lab, and have been working on a landscape genomics analysis of an abundant coral-eroding sponge. I am particularly interested in how populations of such aggressively spreading sponges expand in space and time. In my current position, I focus on the symbiosis between coral reef sponges and photosynthetic microorganisms in Curaçao (Southern Caribbean), where most of my fieldwork takes place. In my free time, I travel with or through books.
-
 - name: Maxine Mouly
   title: Undergraduate student UC Berkeley
   image: /assets/img/people/maxine.jpg
@@ -183,23 +167,6 @@
     * BSc in Biology and Medical Laboratory Research, University of Applied Sciences Utrecht, 2016
   description: |
     I am a marine ecologist interested in understanding the ecological and evolutionary processes governing reef-building coral communities. I came to the Reefscape Genomics Lab for my final MSc internship in 2019 and after graduating, I stayed here to continue working on reefscape genomics, from using photogrammetry to study coral communities to leveraging visualization and phylogenomic tools to explore the evolutionary patterns of coral genera. During my internship, I used next-generation sequencing data to explore cryptic diversity within two important mesophotic coral genera from the Caribbean and the Indo-Pacific oceans. Currently, my work mainly focuses on exploring niche partitioning and other phylogenomic patterns in the observed species diversification of the same genera. In my spare time, I enjoy cooking, photography/videography, playing board games, ultimate frisbee, and other outdoor sports.
-
-- name: Dr. Rene van der Zande
-  title: Associate Researcher CARMABI
-  image: /assets/img/people/rene.jpg
-  id: rene
-  url: /rene/
-  pronouns: he/him
-  email: r.vanderzande@uq.edu.au
-  scholar: 5YMZ6uoAAAAJ
-  website: https://www.coralreefecosystems.org/dr-rene-van-der-zande/
-  keywords: coral reef ecology, ecophysiology, metabolism
-  education: |
-    * PhD in Biological Sciences, The University of Queensland, 2019
-    * MSc in Environmental Biology, Utrecht University, 2013
-    * BSc in Biology, Utrecht University, 2010
-  description: |
-    I am a marine ecologist associated with The University of Queensland, the CARMABI Research Station and the Reefscape Genomics Lab. My work focuses on the interaction between symbiotic corals and their physical environment. Particularly, I am seeking to get a better understanding of how corals are adapted to the environmental conditions they live under, and how they react to changes in their environment. In the current project with the Reefscape Genomics Lab I am exploring how plate-shaped corals growing on the deeper reef slopes interact with sinking sediments that deposit on their surface, and how they assimilate nutrients from these particles. When I am not working, I love being outdoors; I am never happier than when windsurfing, fishing, hiking, or exploring new places.
 
 - name: Lisanne van Hoek
   title: MSc student UvA
