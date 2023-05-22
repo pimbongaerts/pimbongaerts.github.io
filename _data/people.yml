@@ -63,6 +63,15 @@
     
     I enjoy running, hiking, dancing, and playing board games in my free time.
 
+- name: Phaedra Hernandez
+  title: PhD student
+  image: /assets/img/people/phaedra.png
+  id: phaedra
+  url: /phaedra/
+  pronouns: she/her
+  email:
+  twitter:
+
 - name: Dr. Jennifer Hoey
   title: Postdoctoral Researcher
   image: /assets/img/people/jennifer.jpeg
@@ -83,21 +92,6 @@
     
     In my free time, I enjoy climbing, backpacking, gardening, baking, and trying out new restaurants and recipes.
 
-- name: Phaedra Hernandez
-  title: PhD student
-  image: /assets/img/people/phaedra.png
-  id: phaedra
-  url: /phaedra/
-  pronouns: she/her
-  email:
-  twitter:
-
-
-- name: Postdoc - Open Position
-  title: Postdoc / Technician
-  id: open
-  url: /open/
-
 
 - name: Maxine Mouly
   title: Undergraduate student UC Berkeley
@@ -113,5 +107,4 @@
     I am a senior at UC Berkeley studying environmental sciences, deeply intrigued by marine biology. Amid unfettered anthropogenic activities, I am interested in understanding how organisms respond both physiologically and genetically to environmental perturbations. Working in the Reefscape Genomics Lab, I hope to fully immerse myself in the field of coral genomics and learn about coral resilience to global change.
     At school, I conduct research on elephant seals in the Vázquez-Medina Lab to assess the effects of warming on their thermoregulatory capacity and ability to compensate behaviorally. In applying this knowledge to corals, I hope to understand how these organisms cope with multiple stressors and whether there are synergistic effects.
     In my free time, I work as a journalist seeking to reveal the misfortunes of climate change. I also love to cook, bike, and frolic through nature.
-
 
