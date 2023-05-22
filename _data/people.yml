@@ -30,26 +30,6 @@
 
     Outside of work, I enjoy spending time with my family, exploring the local (marine) outdoors, keeping aquaria, playing guitar, listening to 90s hardcore bands, and DIY electronics.
 
-- name: Dr. Jennifer Hoey
-  title: Postdoctoral Researcher
-  image: /assets/img/people/jennifer.jpeg
-  id: jennifer
-  url: /jennifer/
-  pronouns: she/her
-  email: jhoey@calacademy@@org
-  twitter: jahoey13
-  scholar: aNYtD7sAAAAJ
-  github: jahoey
-  website: https://jahoey.github.io/
-  keywords: evolutionary ecology, molecular ecology, conservation genomics
-  education: |
-    * PhD in Ecology & Evolution, Rutgers University, 2020
-    * BA in Integrative Biology, UC Berkeley, 2010
-  description: |
-    I am a postdoctoral researcher in the Reefscape Genomics Lab at the California Academy of Sciences. I am using population genomics and 3D imagery to understand hybridization and adaptation across reef depth in a Caribbean coral community. More broadly, my research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I am also passionate about science communication and I'm excited to be able to explore and teach about our natural world at the Cal Academy.
-    
-    In my free time, I enjoy climbing, backpacking, gardening, baking, and trying out new restaurants and recipes.
-
 - name: Dennis van Hulten
   title: PhD student
   image: /assets/img/people/dennis.jpg
@@ -83,6 +63,42 @@
     
     I enjoy running, hiking, dancing, and playing board games in my free time.
 
+- name: Dr. Jennifer Hoey
+  title: Postdoctoral Researcher
+  image: /assets/img/people/jennifer.jpeg
+  id: jennifer
+  url: /jennifer/
+  pronouns: she/her
+  email: jhoey@calacademy@@org
+  twitter: jahoey13
+  scholar: aNYtD7sAAAAJ
+  github: jahoey
+  website: https://jahoey.github.io/
+  keywords: evolutionary ecology, molecular ecology, conservation genomics
+  education: |
+    * PhD in Ecology & Evolution, Rutgers University, 2020
+    * BA in Integrative Biology, UC Berkeley, 2010
+  description: |
+    I am a postdoctoral researcher in the Reefscape Genomics Lab at the California Academy of Sciences. I am using population genomics and 3D imagery to understand hybridization and adaptation across reef depth in a Caribbean coral community. More broadly, my research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I am also passionate about science communication and I'm excited to be able to explore and teach about our natural world at the Cal Academy.
+    
+    In my free time, I enjoy climbing, backpacking, gardening, baking, and trying out new restaurants and recipes.
+
+- name: Phaedra Hernandez
+  title: PhD student
+  image: /assets/img/people/phaedra.png
+  id: phaedra
+  url: /phaedra/
+  pronouns: she/her
+  email:
+  twitter:
+
+
+- name: Postdoc - Open Position
+  title: Postdoc / Technician
+  id: open
+  url: /open/
+
+
 - name: Maxine Mouly
   title: Undergraduate student UC Berkeley
   image: /assets/img/people/maxine.jpg
@@ -98,11 +114,4 @@
     At school, I conduct research on elephant seals in the Vázquez-Medina Lab to assess the effects of warming on their thermoregulatory capacity and ability to compensate behaviorally. In applying this knowledge to corals, I hope to understand how these organisms cope with multiple stressors and whether there are synergistic effects.
     In my free time, I work as a journalist seeking to reveal the misfortunes of climate change. I also love to cook, bike, and frolic through nature.
 
-- name: Phaedra Hernandez
-  title: PhD student
-  image: /assets/img/people/phaedra.jpg
-  id: phaedra
-  url: /phaedra/
-  pronouns: she/her
-  email:
-  twitter:
+
