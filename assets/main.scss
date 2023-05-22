@@ -13,9 +13,14 @@
 }
 
 ul.people {
-    float: left;
-    width: 33%;
-    list-style-type: disc;
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+   list-style-type: none;
+   list-style-position: inside;
+   #float: left;
+   #width: 33%;
+   #list-style-type: disc;
 }
 
 ul.videos {
