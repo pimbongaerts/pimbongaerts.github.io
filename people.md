@@ -20,11 +20,9 @@ permalink: /people/
 <ul class="people">
 {% for person in site.data.associate %}
   <li>
-    <a href="{{ person.url }}">
-      <img src="{{ person.image }}"><br>
-      {{ person.name }}<br>
-      {{ person.title }}
-    </a>
+    <img src="{{ person.image }}"><br>
+    {{ person.name }}<br>
+    {{ person.title }}
   </li>
 {% endfor %}
 </ul>
@@ -33,11 +31,9 @@ permalink: /people/
 <ul class="people">
 {% for person in site.data.alumni %}
   <li>
-    <a href="{{ person.url }}">
-      <img src="{{ person.image }}"><br>
-      {{ person.name }}<br>
-      {{ person.title }}
-    </a>
+    <img src="{{ person.image }}"><br>
+    {{ person.name }}<br>
+    {{ person.title }}
   </li>
 {% endfor %}
 </ul>
