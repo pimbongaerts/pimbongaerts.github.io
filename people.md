@@ -15,6 +15,7 @@ permalink: /people/
   </li>
 {% endfor %}
 </ul>
+<br />
 <hr>
 <!-- <h2>Associate Researchers</h2>
 <ul class="people">
