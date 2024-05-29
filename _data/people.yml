@@ -30,19 +30,28 @@
 
     Outside of work, I enjoy spending time with my family, exploring the local (marine) outdoors, keeping aquaria, playing guitar, listening to 90s hardcore bands, and DIY electronics.
 
-- name: Dennis van Hulten
-  title: PhD student
-  image: /assets/img/people/dennis.jpg
-  id: dennis
-  url: /dennis/
-  pronouns: him/his
-  email: d.van.hulten@student@@rug.nl
-  twitter: dennis_v_hulten
-  scholar: kqzKuRYAAAAJ
+- name: Norbert Englebert
+  title: Senior Technician
+  image: /assets/img/people/norbert.png
+  id: norbert
+  url: /norbert/
+  pronouns: he/him
+  email: nengleberts@calacademy
+
+- name: Maxine Mouly
+  title: MSc Student (UvA)
+  image: /assets/img/people/maxine.jpg
+  id: maxine
+  url: /maxine/
+  pronouns: she/her
+  email: maxine@berkeley.edu
+  twitter: maxinemouly
   education: |
-    * BSc in Biology, Leiden University
-  description: |
-    I am a Masters student at the University of Groningen currently doing a research project with the Reefscape Genomics group. My main interests lie in population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and I am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time I practice surfing, climbing and most outdoor sports. If I'm not able to be outside I like to make music using various instruments and software.
+    * BSc in Environmental Sciences, UC Berkeley, 2023 (in progress)
+  description: | 
+    I am a senior at UC Berkeley studying environmental sciences, deeply intrigued by marine biology. Amid unfettered anthropogenic activities, I am interested in understanding how organisms respond both physiologically and genetically to environmental perturbations. Working in the Reefscape Genomics Lab, I hope to fully immerse myself in the field of coral genomics and learn about coral resilience to global change.
+    At school, I conduct research on elephant seals in the Vázquez-Medina Lab to assess the effects of warming on their thermoregulatory capacity and ability to compensate behaviorally. In applying this knowledge to corals, I hope to understand how these organisms cope with multiple stressors and whether there are synergistic effects.
+    In my free time, I work as a journalist seeking to reveal the misfortunes of climate change. I also love to cook, bike, and frolic through nature.
 
 - name: Dr. Alejandra Hernandez
   title: Postdoctoral Researcher
@@ -63,14 +72,27 @@
     
     I enjoy running, hiking, dancing, and playing board games in my free time.
 
-- name: Phaedra Hernandez
+- name: Dennis van Hulten
   title: PhD student
-  image: /assets/img/people/phaedra.jpeg
-  id: phaedra
-  url: /phaedra/
+  image: /assets/img/people/dennis.jpg
+  id: dennis
+  url: /dennis/
+  pronouns: him/his
+  email: d.van.hulten@student@@rug.nl
+  twitter: dennis_v_hulten
+  scholar: kqzKuRYAAAAJ
+  education: |
+    * BSc in Biology, Leiden University
+  description: |
+    I am a Masters student at the University of Groningen currently doing a research project with the Reefscape Genomics group. My main interests lie in population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and I am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time I practice surfing, climbing and most outdoor sports. If I'm not able to be outside I like to make music using various instruments and software.
+
+- name: Nelly Batista Delgado
+  title: BSc Student
+  image: /assets/img/people/nelly.png
+  id: nelly
+  url: /nelly/
   pronouns: she/her
-  email:
-  twitter:
+  email: nbatistadelgado@calacademy.org
 
 - name: Dr. Jennifer Hoey
   title: Postdoctoral Researcher
@@ -92,19 +114,19 @@
     
     In my free time, I enjoy climbing, backpacking, gardening, baking, and trying out new restaurants and recipes.
 
-
-- name: Maxine Mouly
-  title: Undergraduate student UC Berkeley
-  image: /assets/img/people/maxine.jpg
-  id: maxine
-  url: /maxine/
+- name: Phaedra Hernandez
+  title: PhD student
+  image: /assets/img/people/phaedra.jpeg
+  id: phaedra
+  url: /phaedra/
   pronouns: she/her
-  email: maxine@berkeley.edu
-  twitter: maxinemouly
-  education: |
-    * BSc in Environmental Sciences, UC Berkeley, 2023 (in progress)
-  description: | 
-    I am a senior at UC Berkeley studying environmental sciences, deeply intrigued by marine biology. Amid unfettered anthropogenic activities, I am interested in understanding how organisms respond both physiologically and genetically to environmental perturbations. Working in the Reefscape Genomics Lab, I hope to fully immerse myself in the field of coral genomics and learn about coral resilience to global change.
-    At school, I conduct research on elephant seals in the Vázquez-Medina Lab to assess the effects of warming on their thermoregulatory capacity and ability to compensate behaviorally. In applying this knowledge to corals, I hope to understand how these organisms cope with multiple stressors and whether there are synergistic effects.
-    In my free time, I work as a journalist seeking to reveal the misfortunes of climate change. I also love to cook, bike, and frolic through nature.
+  email:
+  twitter:
 
+- name: Giorgio Terzi
+  title: MSc Student
+  image: /assets/img/people/giorgio.png
+  id: giorgio
+  url: /giorgio/
+  pronouns: he/him
+  email: giorgioterzi0028@gmail.com 

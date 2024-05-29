@@ -16,7 +16,7 @@ permalink: /people/
 {% endfor %}
 </ul>
 <hr>
-<h2>Associate Researchers</h2>
+<!-- <h2>Associate Researchers</h2>
 <ul class="people">
 {% for person in site.data.associate %}
   <li>
@@ -25,7 +25,7 @@ permalink: /people/
     {{ person.title }}
   </li>
 {% endfor %}
-</ul>
+</ul> -->
 <hr>
 <h2>Lab alumni</h2>
 <ul class="people">

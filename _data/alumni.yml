@@ -1,3 +1,58 @@
+- name: Dr. Michelle Achlatis
+  title: Associate Researcher CARMABI/UvA
+  image: /assets/img/people/michelle.jpeg
+  id: michelle
+  url: /michelle/
+  pronouns: she/her
+  email: machlatis@calacademy@@org
+  scholar: T5I5-IwAAAAJ
+  keywords: sponge physiology, photosymbiosis, bioerosion
+  education: |
+    * PhD in Biological Sciences, The University of Queensland, 2018
+    * MSc in Limnology and Oceanography, University of Amsterdam, 2013
+    * BSc in Biology, University of Crete, 2011
+  description: | 
+    I am a Postdoctoral Researcher working on coral reef ecology based at the University of Amsterdam (Netherlands), and associated with the CARMABI Research Institute and the California Academy of Sciences. I am involved in the CoralScape project with the Reefscape Genomics Lab, and have been working on a landscape genomics analysis of an abundant coral-eroding sponge. I am particularly interested in how populations of such aggressively spreading sponges expand in space and time. In my current position, I focus on the symbiosis between coral reef sponges and photosynthetic microorganisms in Curaçao (Southern Caribbean), where most of my fieldwork takes place. In my free time, I travel with or through books.
+
+- name: Dr. Rene van der Zande
+  title: Associate Researcher CARMABI
+  image: /assets/img/people/rene.jpg
+  id: rene
+  url: /rene/
+  pronouns: he/him
+  email: r.vanderzande@uq.edu.au
+  scholar: 5YMZ6uoAAAAJ
+  website: https://www.coralreefecosystems.org/dr-rene-van-der-zande/
+  keywords: coral reef ecology, ecophysiology, metabolism
+  education: |
+    * PhD in Biological Sciences, The University of Queensland, 2019
+    * MSc in Environmental Biology, Utrecht University, 2013
+    * BSc in Biology, Utrecht University, 2010
+  description: |
+    I am a marine ecologist associated with The University of Queensland, the CARMABI Research Station and the Reefscape Genomics Lab. My work focuses on the interaction between symbiotic corals and their physical environment. Particularly, I am seeking to get a better understanding of how corals are adapted to the environmental conditions they live under, and how they react to changes in their environment. In the current project with the Reefscape Genomics Lab I am exploring how plate-shaped corals growing on the deeper reef slopes interact with sinking sediments that deposit on their surface, and how they assimilate nutrients from these particles. When I am not working, I love being outdoors; I am never happier than when windsurfing, fishing, hiking, or exploring new places.
+
+- name: Dr. Caroline Dubé
+  title: Postdoctoral Researcher
+  image: /assets/img/people/caroline.jpeg
+  id: caroline
+  url: /caroline/
+  pronouns: she/her
+  email: caroline.dube.qc@@gmail.com
+  twitter: Dube_CE
+  scholar: GaMmgr4AAAAJ
+  github: CarolineDUBE
+  keywords: Coral reefs, Reproduction, Microbiome, Symbiosis, Adaptation
+  education: |
+    * PhD in Biodiversity, Genetics & Evolution, Ecole Pratique des Hautes Etudes, Paris 2016
+    * MSc in Biology, Chemistry & Environment, Université de Perpignan, 2011
+    * BSc in Biology & Marine Sciences, Université du Québec à Rimouski, 2008
+  description: |
+    I am a and postdoctoral fellow at the Institute of Integrative Biology and Systems from the University Laval (Canada) and the Reefscape Genomics Lab. My research concerns the ecology and evolution of corals, with a particular focus on host-microbiome interactions and their influence on coral adaptation to environmental change. Since corals establish complex and dynamic interactions with a variety of microorganisms that are essential for their survival, my research aims to better understand the influence of host genetic identity on the composition of the coral microbiome under thermal stress. I use multi-omics approaches and *in situ* experiments to study the molecular mechanisms underlying coral thermal tolerance during bleaching events caused by increased temperuature. I hope that the identification of these key mechanisms will contribute to address current challenges in reef conservation.
+
+- name: Maria Bala
+  title: MSc Student
+  image: /assets/img/people/maria.png
+
 - name: Laura Misker
   title: MSc student (UvA)
   image: /assets/img/people/laura.jpg
