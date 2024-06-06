@@ -30,53 +30,28 @@
 
     Outside of work, I enjoy spending time with my family, exploring the local (marine) outdoors, keeping aquaria, playing guitar, listening to 90s hardcore bands, and DIY electronics.
 
-- name: Dr. Jennifer Hoey
-  title: Postdoctoral Researcher
-  image: /assets/img/people/jennifer.jpeg
-  id: jennifer
-  url: /jennifer/
-  pronouns: she/her
-  email: jhoey@calacademy@@org
-  twitter: jahoey13
-  scholar: aNYtD7sAAAAJ
-  github: jahoey
-  website: https://jahoey.github.io/
-  keywords: evolutionary ecology, molecular ecology, conservation genomics
-  education: |
-    * PhD in Ecology & Evolution, Rutgers University, 2020
-    * BA in Integrative Biology, UC Berkeley, 2010
-  description: |
-    I am a postdoctoral researcher in the Reefscape Genomics Lab at the California Academy of Sciences. I am using population genomics and 3D imagery to understand hybridization and adaptation across reef depth in a Caribbean coral community. More broadly, my research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I am also passionate about science communication and I'm excited to be able to explore and teach about our natural world at the Cal Academy.
-    
-    In my free time, I enjoy climbing, backpacking, gardening, baking, and trying out new restaurants and recipes.
+- name: Norbert Englebert
+  title: Senior Technician
+  image: /assets/img/people/norbert.png
+  id: norbert
+  url: /norbert/
+  pronouns: he/him
+  email: nengleberts@calacademy
 
-- name: Dennis van Hulten
-  title: MSc student RUG
-  image: /assets/img/people/dennis.jpg
-  id: dennis
-  url: /dennis/
-  pronouns: him/his
-  email: d.van.hulten@student@@rug.nl
-  twitter: dennis_v_hulten
-  scholar: kqzKuRYAAAAJ
-  education: |
-    * BSc in Biology, Leiden University
-  description: |
-    I am a Masters student at the University of Groningen currently doing a research project with the Reefscape Genomics group. My main interests lie in population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and I am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time I practice surfing, climbing and most outdoor sports. If I'm not able to be outside I like to make music using various instruments and software.
-
-- name: Flore Wijnands
-  title: MSc student UvA
-  image: /assets/img/people/flore.jpeg
-  id: flore
-  url: /flore/
+- name: Maxine Mouly
+  title: MSc Student (UvA)
+  image: /assets/img/people/maxine.jpg
+  id: maxine
+  url: /maxine/
   pronouns: she/her
-  email: flore.wijnands@student@@uva.nl
+  email: maxine@berkeley.edu
+  twitter: maxinemouly
   education: |
-    * BSc in Earth Sciences, Utrecht University
-  description: |
-    I am a master student Freshwater and Marine Biology from the University of Amsterdam and I will be joining the Reefscape Genomics Lab the coming months for my final research internship. I will be using 3D imagery of Caribbean reefs and phylogenomic approaches to study the effect of microenvironment and genetic diversity on the susceptibly to bleaching in Caribbean stony corals. I am really looking forward to diving deeper into the field of genomics and to learn more about coral ecology and evolution. 
-    
-    My background lies mostly in Earth Sciences.  During courses on paleobiology, I realized that I was more interested in the living world than in sediments and geomorphology, therefore I changed my focus from physical geography to marine biology. Within the field of marine biology I am mostly interested in biogeography, population genomics, and biodiversity and conservation. In my spare time I like to be outside and take long walks. When I am indoors, I often read, play board games with friends, or make music. I play the clarinet in a student orchestra in Utrecht.
+    * BSc in Environmental Sciences, UC Berkeley, 2023 (in progress)
+  description: | 
+    I am a senior at UC Berkeley studying environmental sciences, deeply intrigued by marine biology. Amid unfettered anthropogenic activities, I am interested in understanding how organisms respond both physiologically and genetically to environmental perturbations. Working in the Reefscape Genomics Lab, I hope to fully immerse myself in the field of coral genomics and learn about coral resilience to global change.
+    At school, I conduct research on elephant seals in the Vázquez-Medina Lab to assess the effects of warming on their thermoregulatory capacity and ability to compensate behaviorally. In applying this knowledge to corals, I hope to understand how these organisms cope with multiple stressors and whether there are synergistic effects.
+    In my free time, I work as a journalist seeking to reveal the misfortunes of climate change. I also love to cook, bike, and frolic through nature.
 
 - name: Dr. Alejandra Hernandez
   title: Postdoctoral Researcher
@@ -97,86 +72,61 @@
     
     I enjoy running, hiking, dancing, and playing board games in my free time.
 
-- name: Katharine Prata
+- name: Dennis van Hulten
   title: PhD student
-  image: /assets/img/people/kat.jpeg
-  id: kat
-  url: /kat/
-  pronouns: she/her
-  email: k.prata@uq@@edu.au
-  twitter: kepra3
-  scholar: iDmXuaMAAAAJ
-  github: kepra3
-  keywords: population genomics, molecular ecology, mesophotic coral ecosystems, evolutionary biology, coral reef ecology
+  image: /assets/img/people/dennis.jpg
+  id: dennis
+  url: /dennis/
+  pronouns: him/his
+  email: d.van.hulten@student@@rug.nl
+  twitter: dennis_v_hulten
+  scholar: kqzKuRYAAAAJ
   education: |
-    * PhD in Biological Sciences, The University of Queensland (current)
-    * BSc (Hons.) in Zoology, Monash University, 2016
-  description: | 
-    I am a PhD student under the supervision of Cynthia Riginos at the University of Queensland and Pim Bongaerts in the Reefscape Genomics Lab at California Academy of Sciences. My PhD focuses on a locally dominant and abundant scleractinian genus *Agaricia* in the Southern Caribbean. Species of *Agaricia* are distributed across the entire depth range zooxanthellate corals can live at, thus including both shallow and mesophotic coral ecosystems. I use 3D visualiations from photogrammetry and reduced representation sequencing techniques to study spatially explicit population genomic patterns occuring over fine-scales. Notably, I am determining the effect microhabitat has on niche differentiation and bleaching response on both named species and morphologically cryptic taxa in *Agaricia*.
-    
-    I am also employed at the University of Queensland as a Senior Research Technician where I coordinate SCUBA diving field trips and genomics lab work and I work casually as a Carpentries Programming Instructor at the Queensland Cyber Infrastructure Foundation.
-    
-    I aspire to do a Post Doc and I have been very lucky in my PhD to have gained experience in many research areas including field, lab and computing. In my spare time, I enjoy admiring and fussing over my growing tropcial plant collection, hula hooping and reading or listening to philosophy!
+    * BSc in Biology, Leiden University
+  description: |
+    I am a Masters student at the University of Groningen currently doing a research project with the Reefscape Genomics group. My main interests lie in population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and I am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time I practice surfing, climbing and most outdoor sports. If I'm not able to be outside I like to make music using various instruments and software.
 
-- name: Maxine Mouly
-  title: Undergraduate student UC Berkeley
-  image: /assets/img/people/maxine.jpg
-  id: maxine
-  url: /maxine/
+- name: Nelly Batista Delgado
+  title: BSc Student
+  image: /assets/img/people/nelly.png
+  id: nelly
+  url: /nelly/
   pronouns: she/her
-  email: maxine@berkeley.edu
-  twitter: maxinemouly
-  education: |
-    * BSc in Environmental Sciences, UC Berkeley, 2023 (in progress)
-  description: | 
-    I am a senior at UC Berkeley studying environmental sciences, deeply intrigued by marine biology. Amid unfettered anthropogenic activities, I am interested in understanding how organisms respond both physiologically and genetically to environmental perturbations. Working in the Reefscape Genomics Lab, I hope to fully immerse myself in the field of coral genomics and learn about coral resilience to global change.
-    At school, I conduct research on elephant seals in the Vázquez-Medina Lab to assess the effects of warming on their thermoregulatory capacity and ability to compensate behaviorally. In applying this knowledge to corals, I hope to understand how these organisms cope with multiple stressors and whether there are synergistic effects.
-    In my free time, I work as a journalist seeking to reveal the misfortunes of climate change. I also love to cook, bike, and frolic through nature.
+  email: nbatistadelgado@calacademy.org
 
-- name: Dr. Caroline Dubé
+- name: Dr. Jennifer Hoey
   title: Postdoctoral Researcher
-  image: /assets/img/people/caroline.jpeg
-  id: caroline
-  url: /caroline/
+  image: /assets/img/people/jennifer.jpeg
+  id: jennifer
+  url: /jennifer/
   pronouns: she/her
-  email: caroline.dube.qc@@gmail.com
-  twitter: Dube_CE
-  scholar: GaMmgr4AAAAJ
-  github: CarolineDUBE
-  keywords: Coral reefs, Reproduction, Microbiome, Symbiosis, Adaptation
+  email: jhoey@calacademy@@org
+  twitter: jahoey13
+  scholar: aNYtD7sAAAAJ
+  github: jahoey
+  website: https://jahoey.github.io/
+  keywords: evolutionary ecology, molecular ecology, conservation genomics
   education: |
-    * PhD in Biodiversity, Genetics & Evolution, Ecole Pratique des Hautes Etudes, Paris 2016
-    * MSc in Biology, Chemistry & Environment, Université de Perpignan, 2011
-    * BSc in Biology & Marine Sciences, Université du Québec à Rimouski, 2008
+    * PhD in Ecology & Evolution, Rutgers University, 2020
+    * BA in Integrative Biology, UC Berkeley, 2010
   description: |
-    I am a and postdoctoral fellow at the Institute of Integrative Biology and Systems from the University Laval (Canada) and the Reefscape Genomics Lab. My research concerns the ecology and evolution of corals, with a particular focus on host-microbiome interactions and their influence on coral adaptation to environmental change. Since corals establish complex and dynamic interactions with a variety of microorganisms that are essential for their survival, my research aims to better understand the influence of host genetic identity on the composition of the coral microbiome under thermal stress. I use multi-omics approaches and *in situ* experiments to study the molecular mechanisms underlying coral thermal tolerance during bleaching events caused by increased temperuature. I hope that the identification of these key mechanisms will contribute to address current challenges in reef conservation.
+    I am a postdoctoral researcher in the Reefscape Genomics Lab at the California Academy of Sciences. I am using population genomics and 3D imagery to understand hybridization and adaptation across reef depth in a Caribbean coral community. More broadly, my research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I am also passionate about science communication and I'm excited to be able to explore and teach about our natural world at the Cal Academy.
+    
+    In my free time, I enjoy climbing, backpacking, gardening, baking, and trying out new restaurants and recipes.
 
-- name: Johanna Gijsbers
-  title: Research Technician
-  image: /assets/img/people/johanna.png
-  id: johanna
-  url: /johanna/
+- name: Phaedra Hernandez
+  title: PhD student
+  image: /assets/img/people/phaedra.jpeg
+  id: phaedra
+  url: /phaedra/
   pronouns: she/her
-  email: jgijsbers@@calacademy.org
-  twitter: johannagijsbers
-  scholar: 1j8--EUAAAAJ
-  github: jogijsbers
-  keywords: Coral reefs, coral ecology, adaptation, mesophotic coral ecosystems, coral reef interactions, reefscape genomics
-  education: |
-    * MSc in Biological Sciences, Freshwater and Marine Biology, University of Amsterdam, 2020
-    * BSc in Biology and Medical Laboratory Research, University of Applied Sciences Utrecht, 2016
-  description: |
-    I am a marine ecologist interested in understanding the ecological and evolutionary processes governing reef-building coral communities. I came to the Reefscape Genomics Lab for my final MSc internship in 2019 and after graduating, I stayed here to continue working on reefscape genomics, from using photogrammetry to study coral communities to leveraging visualization and phylogenomic tools to explore the evolutionary patterns of coral genera. During my internship, I used next-generation sequencing data to explore cryptic diversity within two important mesophotic coral genera from the Caribbean and the Indo-Pacific oceans. Currently, my work mainly focuses on exploring niche partitioning and other phylogenomic patterns in the observed species diversification of the same genera. In my spare time, I enjoy cooking, photography/videography, playing board games, ultimate frisbee, and other outdoor sports.
+  email:
+  twitter:
 
-- name: Lisanne van Hoek
-  title: MSc student UvA
-  image: /assets/img/people/lisanne.jpg
-  id: lisanne
-  url: /lisanne/
-  pronouns: she/her
-  email: lisannevhoek@gmail.com
-  education: |
-    * BSc in Biology, University of Amsterdam
-  description: | 
-    I am a master student Freshwater and Marine Biology at the University of Amsterdam, and I am joining the Reefscape Genomics Lab for my first research internship. I am using the 3D imagery as well as the high-resolution photo's of different reefs on Curacao, to do a population analysis of the black-ball sponge Ircinia strobilina. I did an interdisciplinary Bsc, for which I joined the Bsc Biology during my second year. The courses on Marine biology were most appealing to me, so therefore I went on to do a Msc in that area. My main interest within marine biology lies with the effects of climate change and combatting it. In my free time, I love to play tennis, go on hikes and read books.
-
+- name: Giorgio Terzi
+  title: MSc Student
+  image: /assets/img/people/giorgio.png
+  id: giorgio
+  url: /giorgio/
+  pronouns: he/him
+  email: giorgioterzi0028@gmail.com 

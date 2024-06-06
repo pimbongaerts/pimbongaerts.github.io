@@ -1,3 +1,58 @@
+- name: Dr. Michelle Achlatis
+  title: Postdoctoral Researcher
+  image: /assets/img/people/michelle.jpeg
+  id: michelle
+  url: /michelle/
+  pronouns: she/her
+  email: machlatis@calacademy@@org
+  scholar: T5I5-IwAAAAJ
+  keywords: sponge physiology, photosymbiosis, bioerosion
+  education: |
+    * PhD in Biological Sciences, The University of Queensland, 2018
+    * MSc in Limnology and Oceanography, University of Amsterdam, 2013
+    * BSc in Biology, University of Crete, 2011
+  description: | 
+    I am a Postdoctoral Researcher working on coral reef ecology based at the University of Amsterdam (Netherlands), and associated with the CARMABI Research Institute and the California Academy of Sciences. I am involved in the CoralScape project with the Reefscape Genomics Lab, and have been working on a landscape genomics analysis of an abundant coral-eroding sponge. I am particularly interested in how populations of such aggressively spreading sponges expand in space and time. In my current position, I focus on the symbiosis between coral reef sponges and photosynthetic microorganisms in Curaçao (Southern Caribbean), where most of my fieldwork takes place. In my free time, I travel with or through books.
+
+- name: Dr. Rene van der Zande
+  title: Postdoctoral Researcher
+  image: /assets/img/people/rene.jpg
+  id: rene
+  url: /rene/
+  pronouns: he/him
+  email: r.vanderzande@uq.edu.au
+  scholar: 5YMZ6uoAAAAJ
+  website: https://www.coralreefecosystems.org/dr-rene-van-der-zande/
+  keywords: coral reef ecology, ecophysiology, metabolism
+  education: |
+    * PhD in Biological Sciences, The University of Queensland, 2019
+    * MSc in Environmental Biology, Utrecht University, 2013
+    * BSc in Biology, Utrecht University, 2010
+  description: |
+    I am a marine ecologist associated with The University of Queensland, the CARMABI Research Station and the Reefscape Genomics Lab. My work focuses on the interaction between symbiotic corals and their physical environment. Particularly, I am seeking to get a better understanding of how corals are adapted to the environmental conditions they live under, and how they react to changes in their environment. In the current project with the Reefscape Genomics Lab I am exploring how plate-shaped corals growing on the deeper reef slopes interact with sinking sediments that deposit on their surface, and how they assimilate nutrients from these particles. When I am not working, I love being outdoors; I am never happier than when windsurfing, fishing, hiking, or exploring new places.
+
+- name: Dr. Caroline Dubé
+  title: Postdoctoral Researcher
+  image: /assets/img/people/caroline.jpeg
+  id: caroline
+  url: /caroline/
+  pronouns: she/her
+  email: caroline.dube.qc@@gmail.com
+  twitter: Dube_CE
+  scholar: GaMmgr4AAAAJ
+  github: CarolineDUBE
+  keywords: Coral reefs, Reproduction, Microbiome, Symbiosis, Adaptation
+  education: |
+    * PhD in Biodiversity, Genetics & Evolution, Ecole Pratique des Hautes Etudes, Paris 2016
+    * MSc in Biology, Chemistry & Environment, Université de Perpignan, 2011
+    * BSc in Biology & Marine Sciences, Université du Québec à Rimouski, 2008
+  description: |
+    I am a and postdoctoral fellow at the Institute of Integrative Biology and Systems from the University Laval (Canada) and the Reefscape Genomics Lab. My research concerns the ecology and evolution of corals, with a particular focus on host-microbiome interactions and their influence on coral adaptation to environmental change. Since corals establish complex and dynamic interactions with a variety of microorganisms that are essential for their survival, my research aims to better understand the influence of host genetic identity on the composition of the coral microbiome under thermal stress. I use multi-omics approaches and *in situ* experiments to study the molecular mechanisms underlying coral thermal tolerance during bleaching events caused by increased temperuature. I hope that the identification of these key mechanisms will contribute to address current challenges in reef conservation.
+
+- name: Maria Bala
+  title: MSc Student
+  image: /assets/img/people/maria.png
+
 - name: Laura Misker
   title: MSc student (UvA)
   image: /assets/img/people/laura.jpg
@@ -9,3 +64,67 @@
 - name: Joel Huckeba
   title: MSc student (UvA)
   image: /assets/img/people/joel.jpeg
+
+- name: Flore Wijnands
+  title: MSc student UvA
+  image: /assets/img/people/flore.jpeg
+  id: flore
+  url: /flore/
+  pronouns: she/her
+  email: flore.wijnands@student@@uva.nl
+  education: |
+    * BSc in Earth Sciences, Utrecht University
+  description: |
+    I am a master student Freshwater and Marine Biology from the University of Amsterdam and I will be joining the Reefscape Genomics Lab the coming months for my final research internship. I will be using 3D imagery of Caribbean reefs and phylogenomic approaches to study the effect of microenvironment and genetic diversity on the susceptibly to bleaching in Caribbean stony corals. I am really looking forward to diving deeper into the field of genomics and to learn more about coral ecology and evolution. 
+    
+    My background lies mostly in Earth Sciences.  During courses on paleobiology, I realized that I was more interested in the living world than in sediments and geomorphology, therefore I changed my focus from physical geography to marine biology. Within the field of marine biology I am mostly interested in biogeography, population genomics, and biodiversity and conservation. In my spare time I like to be outside and take long walks. When I am indoors, I often read, play board games with friends, or make music. I play the clarinet in a student orchestra in Utrecht.
+
+- name: Katharine Prata
+  title: PhD student
+  image: /assets/img/people/kat.jpeg
+  id: kat
+  url: /kat/
+  pronouns: she/her
+  email: k.prata@uq@@edu.au
+  twitter: kepra3
+  scholar: iDmXuaMAAAAJ
+  github: kepra3
+  keywords: population genomics, molecular ecology, mesophotic coral ecosystems, evolutionary biology, coral reef ecology
+  education: |
+    * PhD in Biological Sciences, The University of Queensland (current)
+    * BSc (Hons.) in Zoology, Monash University, 2016
+  description: | 
+    I am a PhD student under the supervision of Cynthia Riginos at the University of Queensland and Pim Bongaerts in the Reefscape Genomics Lab at California Academy of Sciences. My PhD focuses on a locally dominant and abundant scleractinian genus *Agaricia* in the Southern Caribbean. Species of *Agaricia* are distributed across the entire depth range zooxanthellate corals can live at, thus including both shallow and mesophotic coral ecosystems. I use 3D visualiations from photogrammetry and reduced representation sequencing techniques to study spatially explicit population genomic patterns occuring over fine-scales. Notably, I am determining the effect microhabitat has on niche differentiation and bleaching response on both named species and morphologically cryptic taxa in *Agaricia*.
+    
+    I am also employed at the University of Queensland as a Senior Research Technician where I coordinate SCUBA diving field trips and genomics lab work and I work casually as a Carpentries Programming Instructor at the Queensland Cyber Infrastructure Foundation.
+    
+    I aspire to do a Post Doc and I have been very lucky in my PhD to have gained experience in many research areas including field, lab and computing. In my spare time, I enjoy admiring and fussing over my growing tropcial plant collection, hula hooping and reading or listening to philosophy!
+
+- name: Johanna Gijsbers
+  title: Research Technician
+  image: /assets/img/people/johanna.png
+  id: johanna
+  url: /johanna/
+  pronouns: she/her
+  email: jgijsbers@@calacademy.org
+  twitter: johannagijsbers
+  scholar: 1j8--EUAAAAJ
+  github: jogijsbers
+  keywords: Coral reefs, coral ecology, adaptation, mesophotic coral ecosystems, coral reef interactions, reefscape genomics
+  education: |
+    * MSc in Biological Sciences, Freshwater and Marine Biology, University of Amsterdam, 2020
+    * BSc in Biology and Medical Laboratory Research, University of Applied Sciences Utrecht, 2016
+  description: |
+    I am a marine ecologist interested in understanding the ecological and evolutionary processes governing reef-building coral communities. I came to the Reefscape Genomics Lab for my final MSc internship in 2019 and after graduating, I stayed here to continue working on reefscape genomics, from using photogrammetry to study coral communities to leveraging visualization and phylogenomic tools to explore the evolutionary patterns of coral genera. During my internship, I used next-generation sequencing data to explore cryptic diversity within two important mesophotic coral genera from the Caribbean and the Indo-Pacific oceans. Currently, my work mainly focuses on exploring niche partitioning and other phylogenomic patterns in the observed species diversification of the same genera. In my spare time, I enjoy cooking, photography/videography, playing board games, ultimate frisbee, and other outdoor sports.
+
+- name: Lisanne van Hoek
+  title: MSc student UvA
+  image: /assets/img/people/lisanne.jpg
+  id: lisanne
+  url: /lisanne/
+  pronouns: she/her
+  email: lisannevhoek@gmail.com
+  education: |
+    * BSc in Biology, University of Amsterdam
+  description: | 
+    I am a master student Freshwater and Marine Biology at the University of Amsterdam, and I am joining the Reefscape Genomics Lab for my first research internship. I am using the 3D imagery as well as the high-resolution photo's of different reefs on Curacao, to do a population analysis of the black-ball sponge Ircinia strobilina. I did an interdisciplinary Bsc, for which I joined the Bsc Biology during my second year. The courses on Marine biology were most appealing to me, so therefore I went on to do a Msc in that area. My main interest within marine biology lies with the effects of climate change and combatting it. In my free time, I love to play tennis, go on hikes and read books.
