@@ -78,13 +78,16 @@
   id: dennis
   url: /dennis/
   pronouns: him/his
-  email: d.van.hulten@student@@rug.nl
+  email: hulten.v.dennis@gmail.com
   twitter: dennis_v_hulten
-  scholar: kqzKuRYAAAAJ
+  scholar: pXh7UMAAAAJ
+  github: DennisvHulten
+  website: https://profiles.auckland.ac.nz/dvan216/about
   education: |
+    * MSc in Marine Biology, University of Groningen
     * BSc in Biology, Leiden University
   description: |
-    I am a Masters student at the University of Groningen currently doing a research project with the Reefscape Genomics group. My main interests lie in population genetics, and how to use genetic data to get a better understanding of current and historic geographical events. I have recently started to get into the field of reefscape genomics and coral reefs in general and I am excited to learn more. I am also starting to get into data science and coding and enjoy learning to work with new softwares. In my free time I practice surfing, climbing and most outdoor sports. If I'm not able to be outside I like to make music using various instruments and software.
+    I am a PhD student at the University of Auckland, working in the Reefscape Genomics lab. My research focuses on monospecific stands—areas of the reef dominated by a single coral species—specifically targeting common and dominant corals. I aim to describe the genetic diversity within these monospecific stands, investigate the influence of reef complexity on their formation, and analyze how these stands change over time. I utilize large-area photogrammetry to gain a better understanding of genomic and spatial distribution patterns, as well as the interactions between reef complexity and community structure.
 
 - name: Nelly Batista Delgado
   title: BSc Student
